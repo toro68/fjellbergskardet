@@ -3,7 +3,7 @@ baseurl: /fjellbergskardet/
 
 # Site settings
 title: Fjellbergskardet Hyttegrend
-email: your-email@domain.com
+email: janm@hjb.no 
 description: "Perla i Gullingen-området, Suldals hytteparadis."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -16,7 +16,7 @@ color:
 people:
 - name: Jan Merland
   pic: 1
-  position: Lead Designer
+  position: prosjektleder
   social:
     - title: twitter
       url: #
@@ -49,16 +49,16 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  #- title: twitter
+   # url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: 
+  #- title: stack-overflow
+   # url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket 
+   # url: http://bitbucket.org/jekyll
+ # - title: github
+  #  url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:

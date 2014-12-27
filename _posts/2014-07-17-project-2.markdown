@@ -1,5 +1,5 @@
 ---
-title: Escape
+title: Gullspor
 subtitle: Løypemaskiner
 layout: default
 modal-id: 2
@@ -10,5 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: Gullspor AS
 category: Løypekjøring
-description: Vi er medeier i Gullspor, som kjører løypene i Gullingen-området.
+description: Vi er medeier i Gullspor, som kjører løypene i Gullingen-området. Den ene maskinen er stasjonert i Fjellbergskardet Hyttegrend.
 ---
